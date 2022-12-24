@@ -6,3 +6,8 @@ Search @ENS_RESOLVER_BOT on telegram.
 
 ### BLOG POST LINK
 https://aamirusmani.hashnode.dev/building-a-telegram-bot-with-zettablock-graphql-api
+
+### video showing the working of bot
+
+https://user-images.githubusercontent.com/90125875/209423366-83d582f9-8662-407e-9425-46ddba511047.mp4
+
